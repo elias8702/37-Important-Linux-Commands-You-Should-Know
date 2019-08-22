@@ -39,10 +39,52 @@ pf shutter
 
 
 
-![test](https://www.howtogeek.com/wp-content/uploads/2019/04/top_commands_01.png.pagespeed.ce.62P_lpZ4xD.png "pf shutter,command")
+![pic1](https://www.howtogeek.com/wp-content/uploads/2019/04/top_commands_01.png.pagespeed.ce.62P_lpZ4xD.png "pf shutter,command")
 
 <div dir=rtl>
 
 اما این نام مستعاری که ساخته‌ایم بعد از بسته شدن ترمینال ازبین می‌روند به اصطلاح دیگر میمرند.برای این که این نام مستعار همیشه در دسترس باشد باید ان را در دایرکتوری خانه در فایل `bash_aliases.`  اضافه کنید.
 > نام مستعار (alias)
+
+<div dir=ltr>
+
+
+# 2
+# cat  
+
+<div dir=rtl>
+
+دستور `cat` کوتاه شده کلمه‌ای  *“concatenate”* هست که برای فهرست کردن پرونده‌ها در ترمینال استفاده می‌شود. این دستور خیلی سریع‌تر از ویرایشگرها کار می‌کند و از این موضوع مطمئن هستید که پرنده را  به طور تصادفی تغییر نمی دهید. برای خواندن محتویات فایل `bash_log_out.`
+دستور زیر را وارد کنید، در حالی که در دایرکتوری جاری هستید:
+
+
+<div dir=ltr>
+
+```
+cat .bash_logout
+
+
+```
+
+![pic2](https://www.howtogeek.com/wp-content/uploads/2019/04/top_commands_02.png.pagespeed.ce.eMAhgR_jv0.png "cat .bash_logout ,command")
+
+<div dir=rtl>
+
+اگر پروندتان داری خطوط بیشتر از پنجره ترمینال باشد برای راحت‌تر خواندن متون می‌توانید از دستور `less` استفاده کنید. به این صورت که دستور `cat` را به `less` لوله کشی می‌کنید.حالا می‌توانید با استفاده از کلید‌های جهت‌نما و کلید‌ها PgUp،PgDn ،Home ،En برای حرکت در بین صفحه‌ها استفاده کنید. برای خارج شدن کلید `q` را تایپ کنید.
+
+
+<div dir=ltr>
+
+```
+cat .bashrc | less
+
+
+```
+
+
+![pic3](https://www.howtogeek.com/wp-content/uploads/2019/04/xtop_commands_03.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.TidnlFkK6A.png "cat .bashrc | less,command")
+
+<div dir=rtl>
+
+
 
