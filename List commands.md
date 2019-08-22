@@ -1,6 +1,6 @@
-[alias](commands.md#alias)
+[alias](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#alias)
 
-[cat](commands.md#cat) 
+[cat](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#cat) 
 
-[cd](commands.md#cd)
+[cd](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#cd)
 
