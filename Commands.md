@@ -1,3 +1,4 @@
+{#alias}
 # 1 
 # alias  (نام مستعار)
 
@@ -48,6 +49,7 @@ pf shutter
 
 <div dir=ltr>
 
+{#cat}
 
 # 2
 # cat  
@@ -91,6 +93,7 @@ cat .bashrc | less
 
 <div dir=ltr>
 
+{#cd}
 
 # 3
 # cd
