@@ -17,4 +17,4 @@
 
 لیست زیر براساس حروف الفبا ارئه شده است. پس در نتیجه موقعیت دستور ربطی به سادگی یا پیچیدگی ان ندارد. برای پایان بحث هم به `man` مراجعه کنید. گرچه دستور `man` جزء لیست است البته به عنوان یک کتابچه راهنمای کاربر.
 
-[برای رفتن به فهرست دستورات روی من کلیک کن](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/List_commands.md)
+[برای رفتن به فهرست دستورات روی من کلیک کن](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/List%20commands.md)
