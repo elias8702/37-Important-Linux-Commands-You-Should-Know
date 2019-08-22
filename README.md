@@ -1,2 +1,5 @@
 # 37-Important-Linux-Commands-You-Should-Know
-فرمان مهم لینوکس که باید بدانید
+#37 فرمان مهمی که در لینوکس باید بدانید
+
+ترجمه شده از [سایت](https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/) 
+
