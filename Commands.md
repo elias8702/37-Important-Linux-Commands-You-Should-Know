@@ -14,14 +14,27 @@
 
 
 <div dir=ltr>
-`alias pf="ps -e | grep $1"`
+
+```
+alias pf="ps -e | grep $1"
+```
+
+
 <div dir=rtl>
 
 حالا هر موقع که خواستید pid شناسه یا پروسه‌ی را پیداکنید کافی است نام مستعار `pf` و در جلو ان فرایند یا پروسه مورد نظر خود را تایپ کنید.
 
+<div dir=ltr>
 
-`pf shutter`
+```
+pf shutter
+```
 
-![test](https://www.howtogeek.com/wp-content/uploads/2019/04/top_commands_01.png.pagespeed.ce.62P_lpZ4xD.png "png")
+
+
+
+![test](https://www.howtogeek.com/wp-content/uploads/2019/04/top_commands_01.png.pagespeed.ce.62P_lpZ4xD.png "pf shutter,command")
+
+<div dir=rtl>
 
 
