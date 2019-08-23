@@ -228,7 +228,7 @@ chmod -R 765 example.txt
 {#chown}
 
 # 5
-# chmod
+# chown
 
 <div dir=rtl>
 
