@@ -15,3 +15,6 @@
 
 ## [cd](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#cd)
 
+## [chmod](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#chmod)
+
+## [chown](https://github.com/elias8702/37-Important-Linux-Commands-You-Should-Know/blob/master/Commands.md#chown)
